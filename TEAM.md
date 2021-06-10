@@ -1,14 +1,14 @@
-## Founder
+## Co-Founder
 
-Name: [name]
+Name: [DOBARTIM]
 Role: [role]
 
-## Team Member 1
+## Co-Founder
 
-Name: [name]
+Name: [FLYSKY]
 Role: [role]
 
-## Team Member 2
+## Co-Founder
 
-Name: [name]
+Name: [PROFFX]
 Role: [role]
