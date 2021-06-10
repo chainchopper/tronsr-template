@@ -2,7 +2,7 @@
   <br>
   <img width="40%" src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
   <br>
-  Tronscan Super Representative Template
+  Elon Green Super Representative 
   <br>
 </h1>
 
@@ -14,10 +14,10 @@
   <a href="#how-to-use">How to use</a> •
   <a href="#example">Example</a> •
   <a href="#faq">FAQ</a> •
-  <a href="https://tronscan.org">Tronscan.org</a>
+  <a href="https://elongreen.io">ELONGREEN.IO</a>
 </p>
 
-## Intro
+## About
 
 Tronscan provides a way for Super Representatives to publish their information right where the voters are, on Tronscan!
 
@@ -82,14 +82,3 @@ After you filled in the template it can now be published on https://tronscan.org
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)
 * View your new Page!  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
-
-## Translations
-
-Checkout the [Pages](/pages) directory for the translation readme
-
-## FAQ
-
-* __I've modified a file but the changes aren't visible on tronscan.org?__  
-  Contents from the repository are served using the Github CDN which uses aggressive caching. It may take a few minutes before the changes are reflected on tronscan.org.
-* __Why are HTML elements visible on Github but not on tronscan.org?__  
-  Tronscan.org will sanitize all HTML tags for security reasons, only standard markdown tags are allowed
