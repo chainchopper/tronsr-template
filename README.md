@@ -2,28 +2,21 @@
   <br>
   <img width="40%" src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
   <br>
-  Elon Green Super Representative 
+  Elon Green Coin (GRNPC) Super Representative 
   <br>
 </h1>
 
 <h4 align="center">
-  Template for Super Representatives to publish on <a href="https://tronscan.org">Tronscan.org</a>
+  <a href="https://tronscan.org">Tronscan.org</a>
 </h4>
 
 <p align="center">
-  <a href="#how-to-use">How to use</a> •
-  <a href="#example">Example</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="https://elongreen.io">ELONGREEN.IO</a>
+   <a href="https://elongreen.io">ELONGREEN.IO</a>
 </p>
 
 ## About
 
-Tronscan provides a way for Super Representatives to publish their information right where the voters are, on Tronscan!
-
-Super Representatives can use this template to build a static page which will be shown on Tronscan. The link will be placed in the voting overview page right next to the name.
-
-By editing files in the repository on Github the Super Representative can manage their own content.
+Elon Green Coin and it's projects provide a way for 
 
 
 ## Example
@@ -52,14 +45,6 @@ After forking the repository you will be navigated to your own `tronsr-template`
 
 ## Step 2: Fill in the template
 
-The template can now be modified by editing files on Github.
-
-* Click the file you want to edit  
-![](https://raw.githubusercontent.com/tronscan/docs/master/images/github-open-file.png)
-* Open edit modus
-![](https://raw.githubusercontent.com/tronscan/docs/master/images/github-edit-file.png)
-* Add some information to the file
-![](https://raw.githubusercontent.com/tronscan/docs/master/images/edit-team-intro.png)
 
 Files are written in markdown format. An excellent intro can be found at https://guides.github.com/features/mastering-markdown/
 
