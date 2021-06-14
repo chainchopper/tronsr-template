@@ -1,1 +1,3 @@
-Supply a clear budget line.
+Our hydro-electric powered data center dubbed "Jade Puppy" will provide clean energy low emissions supernodes, fullnode/solidity nodes for the tron network thus providing the first entry of clean energy consensus infrastructure represented by a Tron Super Representative. The goal is to launch these nodes in regions where availability is currently low, hence providing more comprehensible access to the tron network and its tools. We will start with 3 nodes in the most needy areas and branch out from there. We will invest our own time and financial resources for the initial infrastructure with hopes to sustain it and grow it across the world and beyond.
+
+* Once a mintable position is reached (position 27 or above) we start recieving rewards for blocks, 80% will be distributed to voters for 369 days. After this period, rewards will go up to 90%
