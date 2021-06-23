@@ -12,7 +12,6 @@ The Base Configuration For The First Clean Energy SuperNode Will Be As Follows:
 *  RAM - 64GB
 *  Storage - 1TB SSD + 2x2TB SSD RAID - 
 
-All Proceeds From Block Production Will Go Towards Server Spinning And Maintainence. We Will Share Rewards With Voters Of Course, And Also If Given The Opportunity To Become A 27 Slot SR And Block Production Exceeds Network Requirements, We Will Use Proceeds To Donate To Other Projects That Want To Become A Part Of Improving TRON Even Further By Spreading Cleaner Energy Node Solutions Amidst The Mainnet.
 
 We cool our data centers using a combination of Liebert CRAH (Computer Room Air Handler) units using chilled water, as well as a unique air-side economizer that was built and designed by Elon Green (GRNPC) and our technology partners. Our facility uses air-side economizers which allow us to operate at PUE (Power Usage Effectiveness) values of less than 1.2 when the conditions outside and water-flow are appropriate.
 
