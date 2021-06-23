@@ -6,3 +6,7 @@ We cool our data centers using a combination of Liebert CRAH (Computer Room Air 
 
 Our facility also meets the most stringent industry compliance requirements including HIPAA, SSAE 16, PCI-DSS, and ISO 9001 & 27001, ensuring we provide our users with trusted, secure, and reliable clean energy solutions.
 
+
+
+
+![image](https://user-images.githubusercontent.com/36168576/123120964-c4baac00-d412-11eb-8fe4-aedb904e5d44.png)
