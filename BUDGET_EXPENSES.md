@@ -9,4 +9,4 @@ The goal is to launch these nodes in regions where availability is currently the
 
 * Once A mintable position is reached (position 27 or above) 85% will be distributed to voters for 369 days. After this period, rewards will go up to 90% whilst 10% will be retained for network maintainence.
 
-# Ultimately The Biggest Reward Is Making A Small Effort Towards The Bigger Picture, Preserving The Environment. We Hope This Movement Inspires Other Tron Users And Reps To Welcome Elon Green & The Jadepuppy.io Network As Non-Competitive, Non-Political Partners In This Long Needed Clean Energy Journey.
+## Ultimately The Biggest Reward Is Making A Small Effort Towards The Bigger Picture, Preserving The Environment. We Hope This Movement Inspires Other Tron Users And Reps To Welcome Elon Green & The jadepuppy.io Network As Non-Competitive, Non-Political Partners In This Long Needed Clean Energy Journey.
